@@ -21,11 +21,11 @@ A instalação do aplicativo por meio do arquivo APK requer a ativação da opç
 			<h2> Nodi-32armv7.apk</h2>
 			<div class="dep">
 				<div class="imagen">
-					<img src="https://raw.githubusercontent.com/hirayasoftware/hirayasoftware.github.io/master/plugin.video.patanegra/icon.png" />
+					<img src="https://raw.githubusercontent.com/brunoflix/Kodi-Fork-Nodi-Apk-18.0/main/nodi-1.jpg" />
 				</div><div class="texto"><p>
 					Nodi é um fork do Kodi que permite obter funções mais avançadas na versão Android e vem do melhor centro de mídia do momento.<br>
 					O melhor garfo Kodi para Android
-					<br><br><a href="https://hirayasoftware.github.io/plugin.video.patanegra/plugin.video.patanegra-1.1.8.zip">BAIXAR AQUI</a>
+					<br><br><a href="https://archive.org/download/nodi-32armv-7_202103/Nodi-32armv7.apk">BAIXAR AQUI</a>
 				</p></div>
 			</div>
 		</div>

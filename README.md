@@ -14,3 +14,18 @@ Portanto, se você já é um usuário dedicado do Kodi, mas gostaria de alguns a
 Requisitos e informações adicionais:
 Requisitos mínimos do sistema operacional: Android 5.0.
 A instalação do aplicativo por meio do arquivo APK requer a ativação da opção "Fontes desconhecidas" em Configurações> Aplicativos.
+
+
+
+<div class="addon">
+			<h2> Nodi-32armv7.apk</h2>
+			<div class="dep">
+				<div class="imagen">
+					<img src="https://raw.githubusercontent.com/hirayasoftware/hirayasoftware.github.io/master/plugin.video.patanegra/icon.png" />
+				</div><div class="texto"><p>
+					Nodi é um fork do Kodi que permite obter funções mais avançadas na versão Android e vem do melhor centro de mídia do momento.<br>
+					O melhor garfo Kodi para Android
+					<br><br><a href="https://hirayasoftware.github.io/plugin.video.patanegra/plugin.video.patanegra-1.1.8.zip">BAIXAR AQUI</a>
+				</p></div>
+			</div>
+		</div>

@@ -31,6 +31,7 @@ A instalação do aplicativo por meio do arquivo APK requer a ativação da opç
 		</div>
 
 Todos os creditos vao para os seus criadores apenas organizei pra facilitar o download.
+
 Criadores:
 Elies Guzmán
 Sean Mitchel
